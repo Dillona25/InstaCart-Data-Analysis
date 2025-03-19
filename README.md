@@ -9,4 +9,6 @@ This analysis will also give us more insight into shopping habbits of Instacart 
 
 # Tools used
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,wasm)](https://skillicons.dev)
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
